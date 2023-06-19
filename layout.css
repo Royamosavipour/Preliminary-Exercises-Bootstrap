@@ -1,0 +1,30 @@
+.section2-icon{
+    color: white;
+    background-color: #003399;
+    display: inline-flex;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+
+.blu-background{
+    background-color:#D6EAF8;
+}
+
+.text-footer{
+    text-decoration: none;
+    color: black;
+
+}
+
+.text-footer:hover{
+    
+    color:blue;
+
+}
+
+.border-footer{
+    border-bottom: 2px solid black;
+    height: 35px;
+
+}
